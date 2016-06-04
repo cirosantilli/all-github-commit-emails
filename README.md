@@ -171,6 +171,7 @@ Also contains some interesting long lines:
 
 ## Legality
 
+- <https://www.quora.com/unanswered/Are-version-control-e-g-Git-commit-messages-and-other-metadata-automatically-covered-by-the-same-license-as-the-project>
 - <https://www.quora.com/Is-it-legal-to-sell-a-list-with-publicly-available-contact-emails>
 - <https://en.wikipedia.org/wiki/CAN-SPAM_Act_of_2003>
 - <https://www.avvo.com/legal-answers/can-i-copyright-my-email-address-941873.html>
