@@ -2,9 +2,9 @@
 
 5.8 million unique GitHub commit emails (`git config user.email`) extracted from <https://www.githubarchive.org> from 2011-02-12 to 2015-12-31.
 
-## Update
+## Update 2016-06-03
 
-GitHub has asked me to take the emails down, and since they are also going to talk to GitHub Archive and GHTorrent, I took the emails down as promised. 
+GitHub has asked me to take the emails down, and since they are also talking to GitHub Archive and GHTorrent, I took the emails down in good faith. GitHub Archive data was still available.
 
 <support@github.com> 2016-06-03 email:
 
