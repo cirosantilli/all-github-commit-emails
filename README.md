@@ -2,6 +2,14 @@
 
 5.8 million unique GitHub commit emails (`git config user.email`) extracted from <https://www.githubarchive.org> from 2011-02-12 to 2015-12-31.
 
+## Update 2016-08-11
+
+Arfon https://github.com/arfon confirmed to me that emails were removed via:
+
+- https://github.com/igrigorik/githubarchive.org/issues/112
+- https://github.com/igrigorik/githubarchive.org/commit/fd53d3a80fd07289581541cc99446d2dce36c770
+- https://github.com/igrigorik/githubarchive.org/commit/c9ae11426e5bcc30fe15617d009dfc602697ecde
+
 ## Update 2016-08-03
 
 I've checked it today, and the emails seem to have been removed from GitHub Archive: the either null, or of form `<username sha>@<host>`.
