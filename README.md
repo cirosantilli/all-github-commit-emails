@@ -2,6 +2,10 @@
 
 5.8 million unique GitHub commit emails (`git config user.email`) extracted from <https://www.githubarchive.org> from 2011-02-12 to 2015-12-31.
 
+## Update 2016-08-30
+
+The new privacy statement covers more explicitly: https://help.github.com/articles/github-privacy-statement/#how-we-share-the-information-we-collect
+
 ## Update 2016-08-11
 
 Arfon https://github.com/arfon confirmed to me that emails were removed via:
