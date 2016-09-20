@@ -4,6 +4,7 @@ Mostly from GitHub traffic.
 
 Humans:
 
+- 2016-09 https://www.zhihu.com/question/46957710 https://web.archive.org/web/20160920062505/https://www.zhihu.com/question/46957710
 - https://news.ycombinator.com/item?id=11709100
 - https://twitter.com/mitsuhiko/status/720349737556127744
 - https://twitter.com/ziromr/status/729313948630167552
