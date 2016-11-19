@@ -200,3 +200,4 @@ TODO: any? (if I hadn't published it)
 
 - <https://github.com/mmautner/github-email-thief>
 - <https://github.com/hodgesmr/FindGitHubEmail>
+- <https://www.troyhunt.com/8-million-github-profiles-were-leaked-from-geekedins-mongodb-heres-how-to-see-yours/> the scrapper database of a company called Geekedin went public, and Troy said it was serious, But I think they don't have any data not readily available form GitHub Archive.
