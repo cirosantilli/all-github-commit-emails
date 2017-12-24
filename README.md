@@ -4,7 +4,9 @@
 
 ## Update 2016-08-30
 
-The new privacy statement covers more explicitly: https://help.github.com/articles/github-privacy-statement/#how-we-share-the-information-we-collect
+The new privacy statement covers more explicitly http://web.archive.org/web/20171224084808/https://help.github.com/articles/github-privacy-statement/#public-information-on-github :
+
+> If you would like to compile GitHub data, you may only use any public-facing Personal Information you gather for the purpose for which our user has authorized it. For example, where a GitHub user has made an email address public-facing for the purpose of identification and attribution, do not use that email address for commercial advertising. We expect you to reasonably secure any Personal Information you have gathered from GitHub, and to respond promptly to complaints, removal requests, and "do not contact" requests from GitHub or GitHub users.
 
 ## Update 2016-08-11
 
