@@ -1,6 +1,6 @@
 # All GitHub Commit Emails
 
-5.8 million unique GitHub commit emails (`git config user.email`) extracted from <https://www.githubarchive.org> from 2011-02-12 to 2015-12-31.
+5.8 million unique GitHub commit emails (git config user.email) extracted from https://www.githubarchive.org from 2011-02-12 to 2015-12-31. 2016-06-03: emails removed from this repo after request from GitHub. 2016-08-11: emails on GitHub Archive hashed.
 
 ## Update 2016-08-30
 
