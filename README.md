@@ -2,6 +2,11 @@
 
 5.8 million unique GitHub commit emails (git config user.email) extracted from https://www.githubarchive.org from 2011-02-12 to 2015-12-31. 2016-06-03: emails removed from this repo after request from GitHub. 2016-08-11: emails on GitHub Archive hashed.
 
+This is what it looked like:
+
+- http://archive.is/QM2at
+- http://archive.is/lDFDi
+
 ## Update 2016-08-30
 
 The new privacy statement covers more explicitly. I forgot to take a web archive snapshot at that time, but here is the current one: http://web.archive.org/web/20171224084808/https://help.github.com/articles/github-privacy-statement/#public-information-on-github :
