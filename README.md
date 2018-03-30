@@ -1,11 +1,21 @@
 # All GitHub Commit Emails
 
-5.8 million unique GitHub commit emails (git config user.email) extracted from https://www.githubarchive.org from 2011-02-12 to 2015-12-31. 2016-06-03: emails removed from this repo after request from GitHub. 2016-08-11: emails on GitHub Archive hashed. 2016-08-30: privacy policy updated (because of this repo?! We shall never know). 
+5.8 million unique GitHub commit emails (git config user.email) extracted from https://www.githubarchive.org from 2011-02-12 to 2015-12-31. 2016-06-03: emails removed from this repo after request from GitHub. 2016-08-11: emails on GitHub Archive hashed. 2016-08-30: privacy policy updated (because of this repo?! We shall never know). 2018-02-21: dangling commits actually removed... :-)
 
 This is what it looked like:
 
 - http://archive.is/QM2at
 - http://archive.is/lDFDi
+
+## Update 2018-02-21
+
+It was brought to my attention in previous days that the dangling commits were still visible, and in particular that you can easily download the full repo, as explained at: https://stackoverflow.com/questions/872565/remove-sensitive-files-and-their-commits-from-git-history/32840254#32840254
+
+I then contacted GitHub staff, and they replied that it was because the now deleted pull request 2: <https://github.com/cirosantilli/all-github-commit-emails/issues/2> pointed to it. They requested to delete it, and I approved, and now the dangling commits are gone AFAIK.
+
+This means that for more than an year after the original removal attempt, the emails were still easily extractable :-)
+
+It also taught us that GitHub staff has the power to completely delete issues: <https://stackoverflow.com/questions/3081521/how-to-completely-remove-an-issue-from-github/25324423#25324423>
 
 ## Update 2016-08-30
 
