@@ -14,6 +14,9 @@
 
 Cite this repo: https://zenodo.org/badge/latestdoi/42107330[image:https://zenodo.org/badge/42107330.svg[]] Related: https://cirosantilli.com/all-github-commit-emails
 
+.It was Ciro Santilli that made the commit emails be hasehd in the GH Archive dataset.
+image::https://raw.githubusercontent.com/cirosantilli/media/master/GitHub_Archive_Google_bigquery_PushEvent_email_highlight.png[]
+
 toc::[]
 
 == How it looked like before takedown
