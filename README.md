@@ -222,3 +222,34 @@ TODO: any? (if I hadn't published it)
 - <https://github.com/mmautner/github-email-thief>
 - <https://github.com/hodgesmr/FindGitHubEmail>
 - <https://www.troyhunt.com/8-million-github-profiles-were-leaked-from-geekedins-mongodb-heres-how-to-see-yours/> the scrapper database of a company called Geekedin went public, and Troy said it was serious, But I think they don't have any data not readily available form GitHub Archive.
+
+## Backlinks
+
+Mostly from GitHub traffic.
+
+Humans:
+
+- https://arxiv.org/pdf/1908.05354.pdf ([archive](http://web.archive.org/web/20190817173756/https://arxiv.org/pdf/1908.05354.pdf)) "Large-Scale-Exploit of GitHub Repository Metadata and Preventive Measures" by "David Knothe" and "Frederick Pietschmann" published on August 16, 2019.
+- 2019-05 https://quassel.flyingyeti.ovh/ The software is https://en.wikipedia.org/wiki/Quassel_IRC by ... https://en.wikipedia.org/wiki/Fly_Yeti ???
+- 2016-09 https://www.zhihu.com/question/46957710 https://web.archive.org/web/20160920062505/https://www.zhihu.com/question/46957710
+- https://news.ycombinator.com/item?id=11709100
+- https://twitter.com/mitsuhiko/status/720349737556127744
+- https://twitter.com/ziromr/status/729313948630167552
+- https://twitter.com/_pkill/status/727250254723076096
+
+Internal security tools flashing a red light and leaking "internal" URLs:
+
+- http://cybersecurity.telefonica.com/threats/es/detections/571f07a94a5062fca2000003
+- http://he2007.es/owa/redir.aspx
+- http://security.ctrip.com/github-scan/results
+- http://wiki.linecorp.com/display/itsec/Exposed+a+server+hostname%28%27www@LNACTNN1501.nhnjp.ism%27%29+on+github.com_20160426
+- http://work.alibaba-inc.com/work/reports/detail/17156302
+- https://sec.intra.xiaojukeji.com/m
+- https://soc.tools.vipshop.com/m
+- https://uga2.belcy.com/alerts
+
+Not sure:
+
+- 2016-11 http://matrix.cubesec.cn/index.php/home/public/login.html
+- http://link.zhihu.com/
+- http://wx.qq.com/
