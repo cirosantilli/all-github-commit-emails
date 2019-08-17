@@ -14,12 +14,12 @@
 
 Cite this repo: https://zenodo.org/badge/latestdoi/42107330[image:https://zenodo.org/badge/42107330.svg[]]
 
-toc::[]
-
-This is what it looked like:
+This is what it looked like before takedown:
 
 * http://archive.is/QM2at
 * http://archive.is/lDFDi
+
+toc::[]
 
 == Update 2018-02-21
 
